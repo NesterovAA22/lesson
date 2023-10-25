@@ -1,9 +1,9 @@
-a=1
+a=1+56
 b=2
 print(a,b)
 c = a+b
 
-c1=c
+c1=b+b
 
 if c==c1:
     b=a
